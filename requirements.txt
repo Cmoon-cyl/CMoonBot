@@ -1,0 +1,14 @@
+requests
+streamlit
+streamlit-chat
+fastapi
+uvicorn[standard]
+pydantic
+openai
+langchain
+langchain-openai
+numpy
+pandas
+transformers
+psycopg2[binary]
+sqlalchemy
